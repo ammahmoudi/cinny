@@ -24,7 +24,7 @@ export function WelcomePage() {
                   target="_blank"
                   rel="noreferrer noopener"
                 >
-                  v4.11.1
+                  v4.11.1-mamood.0
                 </a>
               </span>
             }
